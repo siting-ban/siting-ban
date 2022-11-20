@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @siting-ban
-- 👀 I’m interested in learning and exploring the different fields in CS (as of now, I'd like to dive into web dev)
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning Racket and C (while trying to remember Python and Processing as well)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
